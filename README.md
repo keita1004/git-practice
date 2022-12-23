@@ -1,3 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-mainでブランチを変更
+conflictでブランチを変更
+
+>>>>>>> conflict
